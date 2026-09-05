@@ -1,7 +1,7 @@
 {
   "competition": "top14",
   "name": "TOP 14",
-  "updatedAt": "2026-09-05T16:18:11.386Z",
+  "updatedAt": "2026-09-05T18:23:53.405Z",
   "matches": [
     {
       "id": 11825,
@@ -21,16 +21,16 @@
         "Canal +",
         "Canal + Live"
       ],
-      "status": "not-started",
+      "status": "live",
       "score": [
-        0,
-        0
+        28,
+        13
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11825-paris-perpignan",
       "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
+        "firstPeriodStartDate": "2026-09-05T19:05:29+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:49:34+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:06:04+02:00",
         "secondPeriodEndDate": null
       },
       "postponed": false
@@ -53,16 +53,16 @@
         "Canal +",
         "Canal + Live"
       ],
-      "status": "not-started",
+      "status": "live",
       "score": [
-        0,
-        0
+        17,
+        16
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11819-bayonne-toulon",
       "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
+        "firstPeriodStartDate": "2026-09-05T19:05:54+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:49:46+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:05:05+02:00",
         "secondPeriodEndDate": null
       },
       "postponed": false
@@ -85,16 +85,16 @@
         "Canal +",
         "Canal + Live"
       ],
-      "status": "not-started",
+      "status": "live",
       "score": [
-        0,
-        0
+        7,
+        17
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11824-montpellier-pau",
       "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
+        "firstPeriodStartDate": "2026-09-05T19:06:05+02:00",
+        "firstPeriodEndDate": "2026-09-05T20:01:24+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:16:30+02:00",
         "secondPeriodEndDate": null
       },
       "postponed": false
@@ -117,16 +117,16 @@
         "Canal + Sport",
         "Canal + Live"
       ],
-      "status": "not-started",
+      "status": "live",
       "score": [
-        0,
-        0
+        22,
+        6
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11821-castres-vannes",
       "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
+        "firstPeriodStartDate": "2026-09-05T19:06:29+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:53:51+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:10:02+02:00",
         "secondPeriodEndDate": null
       },
       "postponed": false
@@ -149,16 +149,16 @@
         "Canal +",
         "Canal + Live"
       ],
-      "status": "not-started",
+      "status": "live",
       "score": [
-        0,
-        0
+        30,
+        10
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11823-lyon-clermont",
       "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
+        "firstPeriodStartDate": "2026-09-05T19:06:07+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:57:04+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:11:46+02:00",
         "secondPeriodEndDate": null
       },
       "postponed": false

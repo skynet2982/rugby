@@ -257,19 +257,20 @@ a {
 }
 
 .team__badge {
-  flex: 0 0 40px;
-  width: 40px;
+  flex: 0 0 auto;
   height: 40px;
+  padding: 3px;
   border-radius: 9px;
   background: #fff;
-  display: grid;
-  place-items: center;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .team__badge img {
-  width: 100%;
   height: 100%;
+  width: auto;
+  max-width: 56px;
   object-fit: contain;
 }
 
@@ -380,19 +381,20 @@ a {
 }
 
 .club-cell .cbadge {
-  width: 26px;
   height: 26px;
+  padding: 2px;
   border-radius: 6px;
   background: #fff;
-  display: grid;
-  place-items: center;
-  overflow: hidden;
-  flex: 0 0 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
 }
 
 .club-cell img {
-  width: 100%;
   height: 100%;
+  width: auto;
+  max-width: 40px;
   object-fit: contain;
 }
 

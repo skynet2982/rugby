@@ -1,8 +1,72 @@
 {
   "competition": "top14",
   "name": "TOP 14",
-  "updatedAt": "2026-09-05T20:31:55.867Z",
+  "updatedAt": "2026-09-05T22:13:30.502Z",
   "matches": [
+    {
+      "id": 11825,
+      "home": {
+        "name": "Stade Français Paris",
+        "acronym": "SFP",
+        "logo": "https://cdn.lnr.fr/club/paris/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
+      },
+      "away": {
+        "name": "USA Perpignan",
+        "acronym": "USAP",
+        "logo": "https://cdn.lnr.fr/club/perpignan/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
+      },
+      "date": "05/09",
+      "time": "19h05",
+      "broadcasters": [
+        "Canal +",
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        28,
+        26
+      ],
+      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11825-paris-perpignan",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-05T19:05:29+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:49:34+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:06:04+02:00",
+        "secondPeriodEndDate": "2026-09-05T20:51:44+02:00"
+      },
+      "postponed": false
+    },
+    {
+      "id": 11819,
+      "home": {
+        "name": "Aviron Bayonnais",
+        "acronym": "AB",
+        "logo": "https://cdn.lnr.fr/club/bayonne/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
+      },
+      "away": {
+        "name": "RC Toulon",
+        "acronym": "RCT",
+        "logo": "https://cdn.lnr.fr/club/toulon/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
+      },
+      "date": "05/09",
+      "time": "19h05",
+      "broadcasters": [
+        "Canal +",
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        27,
+        26
+      ],
+      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11819-bayonne-toulon",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-05T19:05:54+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:49:46+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:05:05+02:00",
+        "secondPeriodEndDate": "2026-09-05T20:51:21+02:00"
+      },
+      "postponed": false
+    },
     {
       "id": 11824,
       "home": {
@@ -100,70 +164,6 @@
       "postponed": false
     },
     {
-      "id": 11825,
-      "home": {
-        "name": "Stade Français Paris",
-        "acronym": "SFP",
-        "logo": "https://cdn.lnr.fr/club/paris/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
-      },
-      "away": {
-        "name": "USA Perpignan",
-        "acronym": "USAP",
-        "logo": "https://cdn.lnr.fr/club/perpignan/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
-      },
-      "date": "05/09",
-      "time": "19h05",
-      "broadcasters": [
-        "Canal +",
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        28,
-        26
-      ],
-      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11825-paris-perpignan",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:29+02:00",
-        "firstPeriodEndDate": "2026-09-05T19:49:34+02:00",
-        "secondPeriodStartDate": "2026-09-05T20:06:04+02:00",
-        "secondPeriodEndDate": "2026-09-05T20:51:44+02:00"
-      },
-      "postponed": false
-    },
-    {
-      "id": 11819,
-      "home": {
-        "name": "Aviron Bayonnais",
-        "acronym": "AB",
-        "logo": "https://cdn.lnr.fr/club/bayonne/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
-      },
-      "away": {
-        "name": "RC Toulon",
-        "acronym": "RCT",
-        "logo": "https://cdn.lnr.fr/club/toulon/photo/logo.31b34b63a330fcdad5a4264d3ab7f8fe92923373"
-      },
-      "date": "05/09",
-      "time": "19h05",
-      "broadcasters": [
-        "Canal +",
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        27,
-        26
-      ],
-      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11819-bayonne-toulon",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:05:54+02:00",
-        "firstPeriodEndDate": "2026-09-05T19:49:46+02:00",
-        "secondPeriodStartDate": "2026-09-05T20:05:05+02:00",
-        "secondPeriodEndDate": "2026-09-05T20:51:21+02:00"
-      },
-      "postponed": false
-    },
-    {
       "id": 11820,
       "home": {
         "name": "Union Bordeaux-Bègles",
@@ -180,17 +180,17 @@
       "broadcasters": [
         "Canal +"
       ],
-      "status": "live",
+      "status": "finished",
       "score": [
-        50,
-        0
+        64,
+        5
       ],
       "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11820-bordeaux-begles-racing-92",
       "timer": {
         "firstPeriodStartDate": "2026-09-05T21:17:55+02:00",
         "firstPeriodEndDate": "2026-09-05T22:04:53+02:00",
         "secondPeriodStartDate": "2026-09-05T22:21:14+02:00",
-        "secondPeriodEndDate": null
+        "secondPeriodEndDate": "2026-09-05T23:06:13+02:00"
       },
       "postponed": false
     },
@@ -229,6 +229,20 @@
   "standings": [
     {
       "rank": 1,
+      "club": "Union Bordeaux-Bègles",
+      "logo": "https://cdn.lnr.fr/club/bordeaux-begles/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "pts": 5,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "bonus": 1,
+      "for": 64,
+      "against": 5,
+      "diff": 59
+    },
+    {
+      "rank": 2,
       "club": "Castres Olympique",
       "logo": "https://cdn.lnr.fr/club/castres/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 4,
@@ -242,7 +256,7 @@
       "diff": 9
     },
     {
-      "rank": 2,
+      "rank": 3,
       "club": "Section Paloise",
       "logo": "https://cdn.lnr.fr/club/pau/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 4,
@@ -256,7 +270,7 @@
       "diff": 8
     },
     {
-      "rank": 3,
+      "rank": 4,
       "club": "LOU Rugby",
       "logo": "https://cdn.lnr.fr/club/lyon/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 4,
@@ -270,7 +284,7 @@
       "diff": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "club": "Stade Français Paris",
       "logo": "https://cdn.lnr.fr/club/paris/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 4,
@@ -284,7 +298,7 @@
       "diff": 2
     },
     {
-      "rank": 5,
+      "rank": 6,
       "club": "Aviron Bayonnais",
       "logo": "https://cdn.lnr.fr/club/bayonne/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 4,
@@ -298,7 +312,7 @@
       "diff": 1
     },
     {
-      "rank": 6,
+      "rank": 7,
       "club": "RC Toulon",
       "logo": "https://cdn.lnr.fr/club/toulon/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 1,
@@ -312,7 +326,7 @@
       "diff": -1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "club": "USA Perpignan",
       "logo": "https://cdn.lnr.fr/club/perpignan/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 1,
@@ -326,7 +340,7 @@
       "diff": -2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "club": "ASM Clermont",
       "logo": "https://cdn.lnr.fr/club/clermont/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 1,
@@ -338,20 +352,6 @@
       "for": 36,
       "against": 40,
       "diff": -4
-    },
-    {
-      "rank": 9,
-      "club": "Union Bordeaux-Bègles",
-      "logo": "https://cdn.lnr.fr/club/bordeaux-begles/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
-      "pts": 0,
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "bonus": 0,
-      "for": 0,
-      "against": 0,
-      "diff": 0
     },
     {
       "rank": 10,
@@ -369,20 +369,6 @@
     },
     {
       "rank": 11,
-      "club": "Racing 92",
-      "logo": "https://cdn.lnr.fr/club/racing-92/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
-      "pts": 0,
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "bonus": 0,
-      "for": 0,
-      "against": 0,
-      "diff": 0
-    },
-    {
-      "rank": 12,
       "club": "Stade Toulousain",
       "logo": "https://cdn.lnr.fr/club/toulouse/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 0,
@@ -396,7 +382,7 @@
       "diff": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "club": "Montpellier Hérault Rugby",
       "logo": "https://cdn.lnr.fr/club/montpellier/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 0,
@@ -410,7 +396,7 @@
       "diff": -8
     },
     {
-      "rank": 14,
+      "rank": 13,
       "club": "RC Vannes",
       "logo": "https://cdn.lnr.fr/club/vannes/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
       "pts": 0,
@@ -422,6 +408,20 @@
       "for": 20,
       "against": 29,
       "diff": -9
+    },
+    {
+      "rank": 14,
+      "club": "Racing 92",
+      "logo": "https://cdn.lnr.fr/club/racing-92/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "pts": 0,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "bonus": 0,
+      "for": 5,
+      "against": 64,
+      "diff": -59
     }
   ]
 }

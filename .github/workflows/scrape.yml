@@ -33,6 +33,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes"
           else
-            git commit -m "Update live data ($(date -u +'%Y-%m-%d %H:%M' UTC))"
+            git commit -m "Update live data ($(date -u +%F_%H%MZ))"
             git push
           fi

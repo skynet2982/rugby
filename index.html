@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Rugby Live — Top 14 &amp; Pro D2</title>
+    <meta
+      name="description"
+      content="Scores en direct et classements du Top 14 et de la Pro D2."
+    />
+    <link rel="stylesheet" href="site.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏉</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar__inner">
+        <a class="brand" href="./"
+          ><span class="brand__ball">🏉</span>
+          <span class="brand__text">Rugby&nbsp;<em>Live</em></span></a
+        >
+        <div class="tabs" id="tabs" role="tablist">
+          <button class="tab is-active" data-comp="top14" role="tab">Top 14</button>
+          <button class="tab" data-comp="prod2" role="tab">Pro D2</button>
+        </div>
+        <div class="status">
+          <span class="status__dot" id="statusDot"></span>
+          <span id="statusText">connexion…</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section class="panel" id="livePanel" aria-label="Scores en direct">
+        <div class="panel__head">
+          <h2 class="panel__title">
+            <span class="pulse" id="livePulse"></span> En direct
+          </h2>
+          <span class="panel__meta" id="liveMeta"></span>
+        </div>
+        <div class="matches" id="matches"></div>
+      </section>
+
+      <section class="panel" id="standingsPanel" aria-label="Classement">
+        <div class="panel__head">
+          <h2 class="panel__title">Classement</h2>
+          <span class="panel__meta" id="standingsMeta"></span>
+        </div>
+        <div class="table-wrap">
+          <table class="standings">
+            <thead>
+              <tr>
+                <th class="num">#</th>
+                <th class="club">Club</th>
+                <th class="num" title="Points">Pts</th>
+                <th class="num" title="Matchs joués">J</th>
+                <th class="num" title="Victoires">G</th>
+                <th class="num" title="Nuls">N</th>
+                <th class="num" title="Défaites">P</th>
+                <th class="num" title="Bonus">B</th>
+                <th class="num" title="Différence">Diff</th>
+              </tr>
+            </thead>
+            <tbody id="standings"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <footer class="foot">
+        <p>
+          Données issues des sites officiels
+          <a href="https://top14.lnr.fr" rel="noopener" target="_blank">top14.lnr.fr</a>
+          et
+          <a href="https://prod2.lnr.fr" rel="noopener" target="_blank">prod2.lnr.fr</a>.
+          Mise à jour toutes les 5 minutes.
+        </p>
+      </footer>
+    </main>
+
+    <script src="site.js"></script>
+  </body>
+</html>

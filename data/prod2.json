@@ -1,7 +1,7 @@
 {
   "competition": "prod2",
   "name": "Pro D2",
-  "updatedAt": "2026-09-05T22:13:33.643Z",
+  "updatedAt": "2026-09-05T23:55:13.057Z",
   "matches": [
     {
       "id": 12017,
@@ -39,7 +39,7 @@
       "home": {
         "name": "US Montauban",
         "acronym": "USM",
-        "logo": "https://cdn.lnr.fr/club/montauban/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583"
+        "logo": "https://cdn.lnr.fr/club/montauban/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38"
       },
       "away": {
         "name": "FC Grenoble Rugby",
@@ -163,12 +163,12 @@
       "home": {
         "name": "Oyonnax Rugby",
         "acronym": "OYO",
-        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.46a39d337a2efd215f093265d9bb7a27a03b43d2"
+        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
       },
       "away": {
         "name": "Biarritz Olympique PB",
         "acronym": "BO",
-        "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.46a39d337a2efd215f093265d9bb7a27a03b43d2"
+        "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
       },
       "date": "04/09",
       "time": "19h30",
@@ -199,7 +199,7 @@
       "away": {
         "name": "AS Béziers Hérault",
         "acronym": "ASBH",
-        "logo": "https://cdn.lnr.fr/club/beziers/photo/logo.be58c08c52b139e7439ae473298bf5be1d3502bf"
+        "logo": "https://cdn.lnr.fr/club/beziers/photo/logo.81d558ef39b5ec0782aff43c11ef1d08cf9d6f52"
       },
       "date": "04/09",
       "time": "19h30",
@@ -225,12 +225,12 @@
       "home": {
         "name": "SU Agen",
         "acronym": "SUA",
-        "logo": "https://cdn.lnr.fr/club/agen/photo/logo.27a61e798d1d289988bab3ca2502f88fa80c5f62"
+        "logo": "https://cdn.lnr.fr/club/agen/photo/logo.94c2aa5df956cc5349e8b9780d8e563032700b94"
       },
       "away": {
         "name": "CA Brive",
         "acronym": "CAB",
-        "logo": "https://cdn.lnr.fr/club/brive/photo/logo.46a39d337a2efd215f093265d9bb7a27a03b43d2"
+        "logo": "https://cdn.lnr.fr/club/brive/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
       },
       "date": "04/09",
       "time": "21h00",
@@ -256,7 +256,7 @@
     {
       "rank": 1,
       "club": "Provence Rugby",
-      "logo": "https://cdn.lnr.fr/club/provence-rugby/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/provence-rugby/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 9,
       "played": 2,
       "won": 2,
@@ -270,7 +270,7 @@
     {
       "rank": 2,
       "club": "Oyonnax Rugby",
-      "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 9,
       "played": 2,
       "won": 2,
@@ -284,7 +284,7 @@
     {
       "rank": 3,
       "club": "CA Brive",
-      "logo": "https://cdn.lnr.fr/club/brive/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/brive/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 8,
       "played": 2,
       "won": 2,
@@ -298,7 +298,7 @@
     {
       "rank": 4,
       "club": "US Montauban",
-      "logo": "https://cdn.lnr.fr/club/montauban/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/montauban/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 8,
       "played": 2,
       "won": 2,
@@ -312,7 +312,7 @@
     {
       "rank": 5,
       "club": "FC Grenoble Rugby",
-      "logo": "https://cdn.lnr.fr/club/grenoble/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/grenoble/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 6,
       "played": 2,
       "won": 1,
@@ -326,7 +326,7 @@
     {
       "rank": 6,
       "club": "Valence Romans",
-      "logo": "https://cdn.lnr.fr/club/valence-romans/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/valence-romans/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 6,
       "played": 2,
       "won": 1,
@@ -340,7 +340,7 @@
     {
       "rank": 7,
       "club": "Biarritz Olympique PB",
-      "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 5,
       "played": 2,
       "won": 1,
@@ -354,7 +354,7 @@
     {
       "rank": 8,
       "club": "Stade Aurillacois",
-      "logo": "https://cdn.lnr.fr/club/aurillac/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/aurillac/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 5,
       "played": 2,
       "won": 1,
@@ -368,7 +368,7 @@
     {
       "rank": 9,
       "club": "US Dax",
-      "logo": "https://cdn.lnr.fr/club/dax/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/dax/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 5,
       "played": 2,
       "won": 1,
@@ -382,7 +382,7 @@
     {
       "rank": 10,
       "club": "Nissa Rugby",
-      "logo": "https://cdn.lnr.fr/club/nice/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/nice/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 5,
       "played": 2,
       "won": 1,
@@ -396,7 +396,7 @@
     {
       "rank": 11,
       "club": "Soyaux-Angoulême XV",
-      "logo": "https://cdn.lnr.fr/club/angouleme/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/angouleme/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 4,
       "played": 2,
       "won": 1,
@@ -410,7 +410,7 @@
     {
       "rank": 12,
       "club": "RC Narbonnais",
-      "logo": "https://cdn.lnr.fr/club/narbonne/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/narbonne/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 4,
       "played": 2,
       "won": 1,
@@ -424,7 +424,7 @@
     {
       "rank": 13,
       "club": "USON Nevers",
-      "logo": "https://cdn.lnr.fr/club/nevers/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/nevers/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 2,
       "played": 2,
       "won": 0,
@@ -438,7 +438,7 @@
     {
       "rank": 14,
       "club": "Colomiers Rugby",
-      "logo": "https://cdn.lnr.fr/club/colomiers/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/colomiers/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 1,
       "played": 2,
       "won": 0,
@@ -452,7 +452,7 @@
     {
       "rank": 15,
       "club": "AS Béziers Hérault",
-      "logo": "https://cdn.lnr.fr/club/beziers/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/beziers/photo/logo.2b2cc65b6bda8a058157fc5c35fbf13195be6a38",
       "pts": 0,
       "played": 2,
       "won": 0,
@@ -466,7 +466,7 @@
     {
       "rank": 16,
       "club": "SU Agen",
-      "logo": "https://cdn.lnr.fr/club/agen/photo/logo.dda5c2f838a3319e68047c54be79db47b8e61583",
+      "logo": "https://cdn.lnr.fr/club/agen/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01",
       "pts": 0,
       "played": 2,
       "won": 0,

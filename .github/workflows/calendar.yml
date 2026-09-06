@@ -1,0 +1,38 @@
+name: calendar
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: calendar
+  cancel-in-progress: true
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run calendar scraper
+        run: node scripts/calendar.js
+
+      - name: Commit & push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Update calendar data ($(date -u +%F_%H%MZ))"
+            git push
+          fi

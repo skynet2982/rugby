@@ -1,7 +1,7 @@
 {
   "competition": "prod2",
   "name": "Pro D2",
-  "updatedAt": "2026-09-06T21:19:19.126Z",
+  "updatedAt": "2026-09-06T21:20:24.345Z",
   "matches": [
     {
       "id": 12017,
@@ -62,37 +62,6 @@
         "firstPeriodEndDate": "2026-09-04T19:46:44+02:00",
         "secondPeriodStartDate": "2026-09-04T20:00:58+02:00",
         "secondPeriodEndDate": "2026-09-04T20:57:35+02:00"
-      },
-      "postponed": false
-    },
-    {
-      "id": 12019,
-      "home": {
-        "name": "RC Narbonnais",
-        "acronym": "RCN",
-        "logo": "https://cdn.lnr.fr/club/narbonne/photo/logo.985942eb3fc0d46bd27cf492bbb017862d52c306"
-      },
-      "away": {
-        "name": "USON Nevers",
-        "acronym": "USON",
-        "logo": "https://cdn.lnr.fr/club/nevers/photo/logo.fa1a76cdb2017b4fc814759f0a3d4889639b077b"
-      },
-      "date": "04/09",
-      "time": "19h30",
-      "broadcasters": [
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        28,
-        26
-      ],
-      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j2/12019-narbonne-nevers",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-04T19:32:05+02:00",
-        "firstPeriodEndDate": "2026-09-04T20:21:26+02:00",
-        "secondPeriodStartDate": "2026-09-04T20:35:25+02:00",
-        "secondPeriodEndDate": "2026-09-04T21:24:03+02:00"
       },
       "postponed": false
     },
@@ -217,6 +186,37 @@
         "firstPeriodEndDate": "2026-09-04T20:17:50+02:00",
         "secondPeriodStartDate": "2026-09-04T20:32:47+02:00",
         "secondPeriodEndDate": "2026-09-04T21:20:25+02:00"
+      },
+      "postponed": false
+    },
+    {
+      "id": 12019,
+      "home": {
+        "name": "RC Narbonnais",
+        "acronym": "RCN",
+        "logo": "https://cdn.lnr.fr/club/narbonne/photo/logo.985942eb3fc0d46bd27cf492bbb017862d52c306"
+      },
+      "away": {
+        "name": "USON Nevers",
+        "acronym": "USON",
+        "logo": "https://cdn.lnr.fr/club/nevers/photo/logo.fa1a76cdb2017b4fc814759f0a3d4889639b077b"
+      },
+      "date": "04/09",
+      "time": "19h30",
+      "broadcasters": [
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        28,
+        26
+      ],
+      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j2/12019-narbonne-nevers",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-04T19:32:05+02:00",
+        "firstPeriodEndDate": "2026-09-04T20:21:26+02:00",
+        "secondPeriodStartDate": "2026-09-04T20:35:25+02:00",
+        "secondPeriodEndDate": "2026-09-04T21:24:03+02:00"
       },
       "postponed": false
     },

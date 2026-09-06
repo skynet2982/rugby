@@ -1,0 +1,2368 @@
+{
+  "competition": "prod2",
+  "updatedAt": "2026-09-06T14:34:41.479Z",
+  "matchdays": [
+    {
+      "code": "J1",
+      "matches": [
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Biarritz",
+          "away": "Nice",
+          "score": [
+            36,
+            5
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-nice-26193.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "SAXV",
+          "away": "Colomiers",
+          "score": [
+            38,
+            26
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-colomiers-26191.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Béziers",
+          "away": "Oyonnax",
+          "score": [
+            21,
+            31
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-oyonnax-26192.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Dax",
+          "away": "Narbonne",
+          "score": [
+            57,
+            19
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-narbonne-26195.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Grenoble",
+          "away": "Aurillac",
+          "score": [
+            57,
+            33
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-aurillac-26196.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Nevers",
+          "away": "Montauban",
+          "score": [
+            21,
+            25
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-montauban-26197.html"
+        },
+        {
+          "date": "jeudi 27 août 2026",
+          "time": null,
+          "home": "Aix",
+          "away": "Agen",
+          "score": [
+            44,
+            10
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-agen-26190.html"
+        },
+        {
+          "date": "vendredi 28 août 2026",
+          "time": null,
+          "home": "Brive",
+          "away": "VRDR",
+          "score": [
+            23,
+            21
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-valence-romans-26194.html"
+        }
+      ]
+    },
+    {
+      "code": "J2",
+      "matches": [
+        {
+          "date": "jeudi 3 septembre 2026",
+          "time": null,
+          "home": "Colomiers",
+          "away": "Aix",
+          "score": [
+            13,
+            18
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-provence-rugby-26200.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Montauban",
+          "away": "Grenoble",
+          "score": [
+            20,
+            17
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-grenoble-26201.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Aurillac",
+          "away": "Dax",
+          "score": [
+            65,
+            35
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-dax-26199.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Narbonne",
+          "away": "Nevers",
+          "score": [
+            28,
+            26
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-nevers-26202.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Nice",
+          "away": "Béziers",
+          "score": [
+            43,
+            6
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-beziers-26203.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Oyonnax",
+          "away": "Biarritz",
+          "score": [
+            47,
+            25
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-biarritz-26204.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "VRDR",
+          "away": "SAXV",
+          "score": [
+            39,
+            22
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-saxv-26205.html"
+        },
+        {
+          "date": "vendredi 4 septembre 2026",
+          "time": null,
+          "home": "Agen",
+          "away": "Brive",
+          "score": [
+            14,
+            37
+          ],
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-brive-26198.html"
+        }
+      ]
+    },
+    {
+      "code": null,
+      "matches": []
+    },
+    {
+      "code": "J3",
+      "matches": [
+        {
+          "date": "jeudi 10 septembre 2026",
+          "time": "21h00",
+          "home": "Biarritz",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/biarritz-colomiers-26209.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h00",
+          "home": "SAXV",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/saxv-montauban-26207.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h30",
+          "home": "Aix",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/provence-rugby-narbonne-26206.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h30",
+          "home": "Béziers",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/beziers-nevers-26208.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h30",
+          "home": "Brive",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/brive-nice-26210.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h30",
+          "home": "Dax",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/dax-valence-romans-26211.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "19h30",
+          "home": "Oyonnax",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/oyonnax-aurillac-26213.html"
+        },
+        {
+          "date": "vendredi 11 septembre 2026",
+          "time": "21h00",
+          "home": "Grenoble",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/grenoble-agen-26212.html"
+        }
+      ]
+    },
+    {
+      "code": "J4",
+      "matches": [
+        {
+          "date": "jeudi 17 septembre 2026",
+          "time": "21h00",
+          "home": "Aurillac",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/aurillac-brive-26215.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h00",
+          "home": "Nice",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/nice-grenoble-26220.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h30",
+          "home": "Colomiers",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/colomiers-dax-26216.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h30",
+          "home": "Montauban",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/montauban-beziers-26217.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h30",
+          "home": "Narbonne",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/narbonne-saxv-26218.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h30",
+          "home": "Nevers",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/nevers-biarritz-26219.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "19h30",
+          "home": "VRDR",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/valence-romans-provence-rugby-26221.html"
+        },
+        {
+          "date": "vendredi 18 septembre 2026",
+          "time": "21h00",
+          "home": "Agen",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/agen-oyonnax-26214.html"
+        }
+      ]
+    },
+    {
+      "code": "J5",
+      "matches": [
+        {
+          "date": "jeudi 24 septembre 2026",
+          "time": "21h00",
+          "home": "Brive",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/brive-colomiers-26226.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h00",
+          "home": "Béziers",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/beziers-narbonne-26224.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h30",
+          "home": "Aix",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/provence-rugby-aurillac-26222.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h30",
+          "home": "SAXV",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/saxv-agen-26223.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h30",
+          "home": "Biarritz",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/biarritz-montauban-26225.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h30",
+          "home": "Dax",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/dax-nice-26227.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "19h30",
+          "home": "Oyonnax",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": "Canal + Live",
+          "link": "/saison-2026-2027/matchs/oyonnax-nevers-26229.html"
+        },
+        {
+          "date": "vendredi 25 septembre 2026",
+          "time": "21h00",
+          "home": "Grenoble",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": "Canal + Sport",
+          "link": "/saison-2026-2027/matchs/grenoble-valence-romans-26228.html"
+        }
+      ]
+    },
+    {
+      "code": "J6",
+      "matches": [
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-dax-26230.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-provence-rugby-26231.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-biarritz-26232.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-colomiers-26233.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-brive-26234.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-oyonnax-26235.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-nevers-26236.html"
+        },
+        {
+          "date": "vendredi 9 octobre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-beziers-26237.html"
+        }
+      ]
+    },
+    {
+      "code": "J7",
+      "matches": [
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-aurillac-26238.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-saxv-26239.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-grenoble-26240.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-narbonne-26241.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-montauban-26242.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-agen-26243.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-provence-rugby-26244.html"
+        },
+        {
+          "date": "vendredi 16 octobre 2026",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-valence-romans-26245.html"
+        }
+      ]
+    },
+    {
+      "code": "J8",
+      "matches": [
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-nice-26246.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-beziers-26247.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-dax-26248.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-nevers-26249.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-biarritz-26250.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-oyonnax-26251.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-brive-26252.html"
+        },
+        {
+          "date": "vendredi 23 octobre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-colomiers-26253.html"
+        }
+      ]
+    },
+    {
+      "code": "J9",
+      "matches": [
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-grenoble-26254.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-valence-romans-26255.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-agen-26256.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-provence-rugby-26257.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-narbonne-26258.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-brive-26259.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-aurillac-26260.html"
+        },
+        {
+          "date": "vendredi 30 octobre 2026",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-saxv-26261.html"
+        }
+      ]
+    },
+    {
+      "code": "J10",
+      "matches": [
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-biarritz-26262.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-oyonnax-26263.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-grenoble-26264.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-montauban-26265.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-dax-26266.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-beziers-26267.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-nice-26268.html"
+        },
+        {
+          "date": "vendredi 6 novembre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-nevers-26269.html"
+        }
+      ]
+    },
+    {
+      "code": "J11",
+      "matches": [
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-colomiers-26270.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-dax-26271.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-narbonne-26272.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-provence-rugby-26273.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-agen-26274.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-saxv-26275.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-valence-romans-26276.html"
+        },
+        {
+          "date": "vendredi 20 novembre 2026",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-brive-26277.html"
+        }
+      ]
+    },
+    {
+      "code": "J12",
+      "matches": [
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-beziers-26278.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-montauban-26279.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-nice-26280.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-biarritz-26281.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-nevers-26282.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-oyonnax-26283.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-grenoble-26284.html"
+        },
+        {
+          "date": "vendredi 27 novembre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-aurillac-26285.html"
+        }
+      ]
+    },
+    {
+      "code": "J13",
+      "matches": [
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-saxv-26286.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-brive-26287.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-provence-rugby-26288.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-valence-romans-26289.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-agen-26290.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-dax-26291.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-colomiers-26292.html"
+        },
+        {
+          "date": "vendredi 4 décembre 2026",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-grenoble-26293.html"
+        }
+      ]
+    },
+    {
+      "code": "J14",
+      "matches": [
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-aurillac-26294.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-brive-26295.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-beziers-26296.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-montauban-26297.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-biarritz-26298.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-nevers-26299.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-oyonnax-26300.html"
+        },
+        {
+          "date": "vendredi 11 décembre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-narbonne-26301.html"
+        }
+      ]
+    },
+    {
+      "code": "J15",
+      "matches": [
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-narbonne-26302.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-biarritz-26303.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-saxv-26304.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-grenoble-26305.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-nice-26306.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-provence-rugby-26307.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-colomiers-26308.html"
+        },
+        {
+          "date": "vendredi 18 décembre 2026",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-agen-26309.html"
+        }
+      ]
+    },
+    {
+      "code": "J16",
+      "matches": [
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-nevers-26310.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-valence-romans-26311.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-oyonnax-26312.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-aurillac-26313.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-brive-26314.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-beziers-26315.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-montauban-26316.html"
+        },
+        {
+          "date": "vendredi 8 janvier 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-dax-26317.html"
+        }
+      ]
+    },
+    {
+      "code": "J17",
+      "matches": [
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-provence-rugby-26318.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-colomiers-26319.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-agen-26320.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-saxv-26321.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-biarritz-26322.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-nice-26323.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-narbonne-26324.html"
+        },
+        {
+          "date": "vendredi 15 janvier 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-grenoble-26325.html"
+        }
+      ]
+    },
+    {
+      "code": "J18",
+      "matches": [
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-montauban-26326.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-grenoble-26327.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-valence-romans-26328.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-nevers-26329.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-aurillac-26330.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-dax-26331.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-brive-26332.html"
+        },
+        {
+          "date": "vendredi 22 janvier 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-beziers-26333.html"
+        }
+      ]
+    },
+    {
+      "code": "J19",
+      "matches": [
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-oyonnax-26334.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-provence-rugby-26335.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-narbonne-26336.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-agen-26337.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-nice-26338.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-saxv-26339.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-colomiers-26340.html"
+        },
+        {
+          "date": "vendredi 29 janvier 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-biarritz-26341.html"
+        }
+      ]
+    },
+    {
+      "code": "J20",
+      "matches": [
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-dax-26342.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-nevers-26343.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-beziers-26344.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-valence-romans-26345.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-brive-26346.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-biarritz-26347.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-agen-26348.html"
+        },
+        {
+          "date": "vendredi 12 février 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-montauban-26349.html"
+        }
+      ]
+    },
+    {
+      "code": "J21",
+      "matches": [
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-narbonne-26350.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-saxv-26351.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-oyonnax-26352.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-provence-rugby-26353.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-colomiers-26354.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-aurillac-26355.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-grenoble-26356.html"
+        },
+        {
+          "date": "vendredi 19 février 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-nice-26357.html"
+        }
+      ]
+    },
+    {
+      "code": "J22",
+      "matches": [
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-nevers-26358.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-agen-26359.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-beziers-26360.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-saxv-26361.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-montauban-26362.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-valence-romans-26363.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-biarritz-26364.html"
+        },
+        {
+          "date": "vendredi 26 février 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-dax-26365.html"
+        }
+      ]
+    },
+    {
+      "code": "J23",
+      "matches": [
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-nice-26368.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-grenoble-26369.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-aurillac-26370.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-provence-rugby-26371.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-oyonnax-26372.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-brive-26373.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-colomiers-26366.html"
+        },
+        {
+          "date": "vendredi 5 mars 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-narbonne-26367.html"
+        }
+      ]
+    },
+    {
+      "code": "J24",
+      "matches": [
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-saxv-26374.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-valence-romans-26375.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-agen-26376.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-nevers-26377.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-oyonnax-26378.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-beziers-26379.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-narbonne-26380.html"
+        },
+        {
+          "date": "vendredi 26 mars 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-montauban-26381.html"
+        }
+      ]
+    },
+    {
+      "code": "J25",
+      "matches": [
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-grenoble-26382.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-brive-26383.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-montauban-26384.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-biarritz-26385.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-provence-rugby-26386.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-nice-26387.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-aurillac-26388.html"
+        },
+        {
+          "date": "vendredi 2 avril 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-dax-26389.html"
+        }
+      ]
+    },
+    {
+      "code": "J26",
+      "matches": [
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Agen",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-valence-romans-26390.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Aix",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-colomiers-26391.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Biarritz",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-beziers-26392.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Brive",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-oyonnax-26393.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Grenoble",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-dax-26394.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Montauban",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-nevers-26395.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Narbonne",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-aurillac-26396.html"
+        },
+        {
+          "date": "vendredi 9 avril 2027",
+          "time": "02h00",
+          "home": "Nice",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-saxv-26397.html"
+        }
+      ]
+    },
+    {
+      "code": "J27",
+      "matches": [
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-biarritz-26398.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-grenoble-26399.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-agen-26400.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-nice-26401.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-brive-26402.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-narbonne-26403.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-provence-rugby-26404.html"
+        },
+        {
+          "date": "vendredi 16 avril 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-montauban-26405.html"
+        }
+      ]
+    },
+    {
+      "code": "J28",
+      "matches": [
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-saxv-26406.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-nice-26407.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-dax-26408.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-aurillac-26409.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-oyonnax-26410.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-colomiers-26411.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-beziers-26412.html"
+        },
+        {
+          "date": "vendredi 23 avril 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-valence-romans-26413.html"
+        }
+      ]
+    },
+    {
+      "code": "J29",
+      "matches": [
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Aix",
+          "away": "Biarritz",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/provence-rugby-biarritz-26414.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "SAXV",
+          "away": "Aurillac",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/saxv-aurillac-26415.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Béziers",
+          "away": "VRDR",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/beziers-valence-romans-26416.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Brive",
+          "away": "Agen",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/brive-agen-26417.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Colomiers",
+          "away": "Grenoble",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/colomiers-grenoble-26418.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Dax",
+          "away": "Nevers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/dax-nevers-26419.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Nice",
+          "away": "Narbonne",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nice-narbonne-26420.html"
+        },
+        {
+          "date": "vendredi 7 mai 2027",
+          "time": "00h00",
+          "home": "Oyonnax",
+          "away": "Montauban",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/oyonnax-montauban-26421.html"
+        }
+      ]
+    },
+    {
+      "code": "J30",
+      "matches": [
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Agen",
+          "away": "Aix",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/agen-provence-rugby-26422.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Aurillac",
+          "away": "Nice",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/aurillac-nice-26423.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Biarritz",
+          "away": "Brive",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/biarritz-brive-26424.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Grenoble",
+          "away": "SAXV",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/grenoble-saxv-26425.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Montauban",
+          "away": "Dax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/montauban-dax-26426.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Narbonne",
+          "away": "Colomiers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/narbonne-colomiers-26427.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "Nevers",
+          "away": "Béziers",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/nevers-beziers-26428.html"
+        },
+        {
+          "date": "vendredi 14 mai 2027",
+          "time": "00h00",
+          "home": "VRDR",
+          "away": "Oyonnax",
+          "score": null,
+          "broadcaster": null,
+          "link": "/saison-2026-2027/matchs/valence-romans-oyonnax-26429.html"
+        }
+      ]
+    }
+  ]
+}

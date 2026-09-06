@@ -1,11 +1,17 @@
 "use strict";
 
 const DATA = { top14: "data/top14.json", prod2: "data/prod2.json" };
+const CALENDAR_DATA = {
+  top14: "data/top14-calendar.json",
+  prod2: "data/prod2-calendar.json",
+};
 const REFRESH_MS = 30000;
 
 const state = {
   comp: "top14",
   data: null,
+  calendar: null,
+  calendarIndex: 0,
   timer: null,
 };
 
@@ -177,6 +183,72 @@ function formatDiff(d) {
   return (n > 0 ? "+" : "") + n;
 }
 
+function defaultMatchdayIndex(matchdays) {
+  for (let i = 0; i < matchdays.length; i++) {
+    if (matchdays[i].matches.some((m) => !m.score)) return i;
+  }
+  return Math.max(0, matchdays.length - 1);
+}
+
+function renderCalendar() {
+  const cal = state.calendar;
+  const nav = $("#calNav");
+  const box = $("#calMatches");
+  if (!cal || !cal.matchdays.length) {
+    nav.innerHTML = "";
+    box.innerHTML = `<div class="empty">Calendrier indisponible pour le moment.</div>`;
+    return;
+  }
+
+  const idx = state.calendarIndex;
+  const day = cal.matchdays[idx];
+
+  nav.innerHTML = `
+    <button class="cal-nav__btn" id="calPrev" ${idx === 0 ? "disabled" : ""} aria-label="Journée précédente">‹</button>
+    <span class="cal-nav__label">${esc(day.code || "")}</span>
+    <button class="cal-nav__btn" id="calNext" ${idx === cal.matchdays.length - 1 ? "disabled" : ""} aria-label="Journée suivante">›</button>
+  `;
+
+  let lastDate = null;
+  const rows = day.matches
+    .map((m) => {
+      const dateHtml =
+        m.date !== lastDate
+          ? ((lastDate = m.date), `<div class="cal-date">${esc(m.date)}</div>`)
+          : "";
+      const result = m.score
+        ? `${m.score[0]}–${m.score[1]}`
+        : m.time
+        ? esc(m.time)
+        : "—";
+      return `
+        ${dateHtml}
+        <div class="cal-row">
+          <span class="cal-team cal-team--home">${esc(m.home)}</span>
+          <span class="cal-result">${result}</span>
+          <span class="cal-team cal-team--away">${esc(m.away)}</span>
+          ${m.broadcaster ? `<span class="cal-bc">${esc(m.broadcaster)}</span>` : ""}
+        </div>`;
+    })
+    .join("");
+
+  box.innerHTML = rows;
+}
+
+async function loadCalendar() {
+  try {
+    const res = await fetch(CALENDAR_DATA[state.comp], { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const d = await res.json();
+    state.calendar = d;
+    state.calendarIndex = defaultMatchdayIndex(d.matchdays);
+    renderCalendar();
+  } catch (err) {
+    $("#calNav").innerHTML = "";
+    $("#calMatches").innerHTML = `<div class="empty">Calendrier indisponible pour le moment.</div>`;
+  }
+}
+
 function render() {
   const d = state.data;
   if (!d) return;
@@ -209,6 +281,7 @@ function switchComp(comp) {
     b.classList.toggle("is-active", b.dataset.comp === comp);
   });
   load();
+  loadCalendar();
 }
 
 function init() {
@@ -216,7 +289,23 @@ function init() {
     const btn = e.target.closest(".tab");
     if (btn) switchComp(btn.dataset.comp);
   });
+  $("#calNav").addEventListener("click", (e) => {
+    const cal = state.calendar;
+    if (!cal) return;
+    if (e.target.closest("#calPrev") && state.calendarIndex > 0) {
+      state.calendarIndex--;
+      renderCalendar();
+    }
+    if (
+      e.target.closest("#calNext") &&
+      state.calendarIndex < cal.matchdays.length - 1
+    ) {
+      state.calendarIndex++;
+      renderCalendar();
+    }
+  });
   load();
+  loadCalendar();
   setInterval(load, REFRESH_MS);
 }
 

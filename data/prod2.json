@@ -1,7 +1,7 @@
 {
   "competition": "prod2",
   "name": "Pro D2",
-  "updatedAt": "2026-09-06T21:48:17.019Z",
+  "updatedAt": "2026-09-06T21:49:16.547Z",
   "matches": [
     {
       "id": 12017,
@@ -62,37 +62,6 @@
         "firstPeriodEndDate": "2026-09-04T19:46:44+02:00",
         "secondPeriodStartDate": "2026-09-04T20:00:58+02:00",
         "secondPeriodEndDate": "2026-09-04T20:57:35+02:00"
-      },
-      "postponed": false
-    },
-    {
-      "id": 12021,
-      "home": {
-        "name": "Oyonnax Rugby",
-        "acronym": "OYO",
-        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
-      },
-      "away": {
-        "name": "Biarritz Olympique PB",
-        "acronym": "BO",
-        "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
-      },
-      "date": "04/09",
-      "time": "19h30",
-      "broadcasters": [
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        47,
-        25
-      ],
-      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j2/12021-oyonnax-biarritz",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-04T19:32:37+02:00",
-        "firstPeriodEndDate": "2026-09-04T20:19:14+02:00",
-        "secondPeriodStartDate": "2026-09-04T20:34:43+02:00",
-        "secondPeriodEndDate": "2026-09-04T21:22:18+02:00"
       },
       "postponed": false
     },
@@ -217,6 +186,37 @@
         "firstPeriodEndDate": "2026-09-04T20:14:39+02:00",
         "secondPeriodStartDate": "2026-09-04T20:29:22+02:00",
         "secondPeriodEndDate": "2026-09-04T21:18:02+02:00"
+      },
+      "postponed": false
+    },
+    {
+      "id": 12021,
+      "home": {
+        "name": "Oyonnax Rugby",
+        "acronym": "OYO",
+        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
+      },
+      "away": {
+        "name": "Biarritz Olympique PB",
+        "acronym": "BO",
+        "logo": "https://cdn.lnr.fr/club/biarritz/photo/logo.8af9cfa8aa3de756fb3ed56f5e0bd7c777b80bbd"
+      },
+      "date": "04/09",
+      "time": "19h30",
+      "broadcasters": [
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        47,
+        25
+      ],
+      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j2/12021-oyonnax-biarritz",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-04T19:32:37+02:00",
+        "firstPeriodEndDate": "2026-09-04T20:19:14+02:00",
+        "secondPeriodStartDate": "2026-09-04T20:34:43+02:00",
+        "secondPeriodEndDate": "2026-09-04T21:22:18+02:00"
       },
       "postponed": false
     },

@@ -8,7 +8,7 @@
       name="description"
       content="Scores en direct et classements du Top 14 et de la Pro D2."
     />
-    <link rel="stylesheet" href="site.css?v=3" />
+    <link rel="stylesheet" href="site.css?v=4" />
     <link
       rel="icon"
       href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏉</text></svg>"
@@ -41,6 +41,14 @@
           <span class="panel__meta" id="liveMeta"></span>
         </div>
         <div class="matches" id="matches"></div>
+      </section>
+
+      <section class="panel" id="calendarPanel" aria-label="Calendrier">
+        <div class="panel__head">
+          <h2 class="panel__title">Calendrier</h2>
+          <div class="cal-nav" id="calNav"></div>
+        </div>
+        <div class="cal-list" id="calMatches"></div>
       </section>
 
       <section class="panel" id="standingsPanel" aria-label="Classement">
@@ -79,6 +87,6 @@
       </footer>
     </main>
 
-    <script src="site.js?v=2"></script>
+    <script src="site.js?v=3"></script>
   </body>
 </html>

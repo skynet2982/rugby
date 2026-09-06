@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   workflow_run:
-    workflows: ["scrape"]
+    workflows: ["scrape", "calendar"]
     types: [completed]
   workflow_dispatch:
 

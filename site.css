@@ -191,6 +191,20 @@ a {
   gap: 12px;
 }
 
+.match-group__label {
+  grid-column: 1 / -1;
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--muted);
+  margin: 4px 0 -2px;
+}
+
+.match-group__label:first-child {
+  margin-top: 0;
+}
+
 .match {
   background: var(--panel-2);
   border: 1px solid var(--line);

@@ -1,8 +1,40 @@
 {
   "competition": "top14",
   "name": "TOP 14",
-  "updatedAt": "2026-09-06T21:23:16.144Z",
+  "updatedAt": "2026-09-06T21:24:14.676Z",
   "matches": [
+    {
+      "id": 11824,
+      "home": {
+        "name": "Montpellier Hérault Rugby",
+        "acronym": "MHR",
+        "logo": "https://cdn.lnr.fr/club/montpellier/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
+      },
+      "away": {
+        "name": "Section Paloise",
+        "acronym": "SP",
+        "logo": "https://cdn.lnr.fr/club/pau/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
+      },
+      "date": "05/09",
+      "time": "19h05",
+      "broadcasters": [
+        "Canal +",
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        19,
+        27
+      ],
+      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11824-montpellier-pau",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-05T19:06:05+02:00",
+        "firstPeriodEndDate": "2026-09-05T20:01:24+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:16:30+02:00",
+        "secondPeriodEndDate": "2026-09-05T21:08:12+02:00"
+      },
+      "postponed": false
+    },
     {
       "id": 11821,
       "home": {
@@ -128,38 +160,6 @@
         "firstPeriodEndDate": "2026-09-05T19:49:46+02:00",
         "secondPeriodStartDate": "2026-09-05T20:05:05+02:00",
         "secondPeriodEndDate": "2026-09-05T20:51:21+02:00"
-      },
-      "postponed": false
-    },
-    {
-      "id": 11824,
-      "home": {
-        "name": "Montpellier Hérault Rugby",
-        "acronym": "MHR",
-        "logo": "https://cdn.lnr.fr/club/montpellier/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
-      },
-      "away": {
-        "name": "Section Paloise",
-        "acronym": "SP",
-        "logo": "https://cdn.lnr.fr/club/pau/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
-      },
-      "date": "05/09",
-      "time": "19h05",
-      "broadcasters": [
-        "Canal +",
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        19,
-        27
-      ],
-      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11824-montpellier-pau",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:06:05+02:00",
-        "firstPeriodEndDate": "2026-09-05T20:01:24+02:00",
-        "secondPeriodStartDate": "2026-09-05T20:16:30+02:00",
-        "secondPeriodEndDate": "2026-09-05T21:08:12+02:00"
       },
       "postponed": false
     },

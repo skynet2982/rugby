@@ -68,27 +68,19 @@ function matchState(m) {
   return { key: "upcoming", label: "" };
 }
 
-function renderMatches(matches) {
-  const box = $("#matches");
-  if (!matches.length) {
-    box.innerHTML = `<div class="empty">Aucun match de programmé pour le moment.</div>`;
-    return;
-  }
-
-  const html = matches
-    .map((m) => {
-      const st = matchState(m);
-      const live = st.key === "live";
-      const kickoff = m.postponed
-        ? "—"
-        : `${esc(m.date)} · ${esc(m.time)}`;
-      const scoreShown =
-        st.key === "finished" || live || parseInt(m.score[0], 10) > 0 || parseInt(m.score[1], 10) > 0;
-      const statusLabel =
-        st.key === "upcoming"
-          ? kickoff
-          : `<span class="match__dot"></span>${st.label}`;
-      return `
+function renderMatchCard(m) {
+  const st = matchState(m);
+  const live = st.key === "live";
+  const kickoff = m.postponed
+    ? "—"
+    : `${esc(m.date)} · ${esc(m.time)}`;
+  const scoreShown =
+    st.key === "finished" || live || parseInt(m.score[0], 10) > 0 || parseInt(m.score[1], 10) > 0;
+  const statusLabel =
+    st.key === "upcoming"
+      ? kickoff
+      : `<span class="match__dot"></span>${st.label}`;
+  return `
       <article class="match${live ? " is-live" : ""}">
         <div class="match__top">
           <span class="match__date">${esc(m.date)}</span>
@@ -108,8 +100,30 @@ function renderMatches(matches) {
             : ""
         }
       </article>`;
-    })
-    .join("");
+}
+
+function renderMatches(matches) {
+  const box = $("#matches");
+  if (!matches.length) {
+    box.innerHTML = `<div class="empty">Aucun match de programmé pour le moment.</div>`;
+    return;
+  }
+
+  const played = [];
+  const upcoming = [];
+  matches.forEach((m) => {
+    (matchState(m).key === "upcoming" ? upcoming : played).push(m);
+  });
+
+  let html = "";
+  if (played.length) {
+    html += `<div class="match-group__label">Résultats</div>`;
+    html += played.map(renderMatchCard).join("");
+  }
+  if (upcoming.length) {
+    html += `<div class="match-group__label">À venir</div>`;
+    html += upcoming.map(renderMatchCard).join("");
+  }
 
   box.innerHTML = html;
 }

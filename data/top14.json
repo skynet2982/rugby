@@ -1,40 +1,8 @@
 {
   "competition": "top14",
   "name": "TOP 14",
-  "updatedAt": "2026-09-06T19:58:14.671Z",
+  "updatedAt": "2026-09-06T19:59:14.508Z",
   "matches": [
-    {
-      "id": 11823,
-      "home": {
-        "name": "LOU Rugby",
-        "acronym": "LOU",
-        "logo": "https://cdn.lnr.fr/club/lyon/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
-      },
-      "away": {
-        "name": "ASM Clermont",
-        "acronym": "ASM",
-        "logo": "https://cdn.lnr.fr/club/clermont/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
-      },
-      "date": "05/09",
-      "time": "19h05",
-      "broadcasters": [
-        "Canal +",
-        "Canal + Live"
-      ],
-      "status": "finished",
-      "score": [
-        40,
-        36
-      ],
-      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11823-lyon-clermont",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-05T19:06:07+02:00",
-        "firstPeriodEndDate": "2026-09-05T19:57:04+02:00",
-        "secondPeriodStartDate": "2026-09-05T20:11:46+02:00",
-        "secondPeriodEndDate": "2026-09-05T21:03:35+02:00"
-      },
-      "postponed": false
-    },
     {
       "id": 11825,
       "home": {
@@ -160,6 +128,38 @@
         "firstPeriodEndDate": "2026-09-05T19:53:51+02:00",
         "secondPeriodStartDate": "2026-09-05T20:10:02+02:00",
         "secondPeriodEndDate": "2026-09-05T20:55:07+02:00"
+      },
+      "postponed": false
+    },
+    {
+      "id": 11823,
+      "home": {
+        "name": "LOU Rugby",
+        "acronym": "LOU",
+        "logo": "https://cdn.lnr.fr/club/lyon/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
+      },
+      "away": {
+        "name": "ASM Clermont",
+        "acronym": "ASM",
+        "logo": "https://cdn.lnr.fr/club/clermont/photo/logo.1e301d2e7749495cb22ea01fa45d957f1d393d01"
+      },
+      "date": "05/09",
+      "time": "19h05",
+      "broadcasters": [
+        "Canal +",
+        "Canal + Live"
+      ],
+      "status": "finished",
+      "score": [
+        40,
+        36
+      ],
+      "link": "https://top14.lnr.fr/feuille-de-match/2026-2027/j1/11823-lyon-clermont",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-05T19:06:07+02:00",
+        "firstPeriodEndDate": "2026-09-05T19:57:04+02:00",
+        "secondPeriodStartDate": "2026-09-05T20:11:46+02:00",
+        "secondPeriodEndDate": "2026-09-05T21:03:35+02:00"
       },
       "postponed": false
     },

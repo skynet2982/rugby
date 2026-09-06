@@ -278,7 +278,9 @@ a {
   font-weight: 700;
   font-size: 13.5px;
   line-height: 1.15;
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
 }
 
 .match__score {
@@ -448,5 +450,19 @@ a {
   .standings th.num,
   .standings td.num {
     width: 40px;
+  }
+
+  .team__badge {
+    flex: 0 0 34px;
+    width: 34px;
+    height: 34px;
+  }
+
+  .team__name {
+    font-size: 12.5px;
+  }
+
+  .match__score-vals {
+    font-size: 21px;
   }
 }

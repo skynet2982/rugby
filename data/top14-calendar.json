@@ -1,6 +1,6 @@
 {
   "competition": "top14",
-  "updatedAt": "2026-09-06T14:34:41.363Z",
+  "updatedAt": "2026-09-07T09:20:48.349Z",
   "matchdays": [
     {
       "code": "J1",
@@ -79,14 +79,21 @@
         },
         {
           "date": "dimanche 6 septembre 2026",
-          "time": "21h05",
+          "time": null,
           "home": "La Rochelle",
           "away": "Toulouse",
-          "score": null,
-          "broadcaster": "Canal +",
+          "score": [
+            30,
+            27
+          ],
+          "broadcaster": null,
           "link": "/saison-2026-2027/matchs/la-rochelle-toulouse-26011.html"
         }
       ]
+    },
+    {
+      "code": null,
+      "matches": []
     },
     {
       "code": "J2",

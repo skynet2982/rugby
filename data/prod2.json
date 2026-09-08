@@ -1,7 +1,7 @@
 {
   "competition": "prod2",
   "name": "Pro D2",
-  "updatedAt": "2026-09-08T00:27:27.244Z",
+  "updatedAt": "2026-09-08T05:01:14.846Z",
   "matches": [
     {
       "id": 12026,
@@ -59,68 +59,6 @@
       "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12024-angouleme-montauban",
       "timer": {
         "firstPeriodStartDate": "2026-09-11T19:00:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
-        "secondPeriodEndDate": null
-      },
-      "postponed": false
-    },
-    {
-      "id": 12030,
-      "home": {
-        "name": "Oyonnax Rugby",
-        "acronym": "OYO",
-        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.7ff5000ff3028fc31f735c06d8353cc6fdb5ab62"
-      },
-      "away": {
-        "name": "Stade Aurillacois",
-        "acronym": "SA",
-        "logo": "https://cdn.lnr.fr/club/aurillac/photo/logo.93cd572b4cf74f9e22dee63c72e21b36b6285d97"
-      },
-      "date": "11/09",
-      "time": "19h30",
-      "broadcasters": [
-        "Canal + Live"
-      ],
-      "status": "not-started",
-      "score": [
-        0,
-        0
-      ],
-      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12030-oyonnax-aurillac",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-11T19:30:00+02:00",
-        "firstPeriodEndDate": null,
-        "secondPeriodStartDate": null,
-        "secondPeriodEndDate": null
-      },
-      "postponed": false
-    },
-    {
-      "id": 12027,
-      "home": {
-        "name": "CA Brive",
-        "acronym": "CAB",
-        "logo": "https://cdn.lnr.fr/club/brive/photo/logo.aa9cd83c92305f81e89896076a24888a72d3302f"
-      },
-      "away": {
-        "name": "Nissa Rugby",
-        "acronym": "SN",
-        "logo": "https://cdn.lnr.fr/club/nice/photo/logo.ac11f07c903e0bcee33cbdd5267c8ed066f06647"
-      },
-      "date": "11/09",
-      "time": "19h30",
-      "broadcasters": [
-        "Canal + Live"
-      ],
-      "status": "not-started",
-      "score": [
-        0,
-        0
-      ],
-      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12027-brive-nice",
-      "timer": {
-        "firstPeriodStartDate": "2026-09-11T19:30:00+02:00",
         "firstPeriodEndDate": null,
         "secondPeriodStartDate": null,
         "secondPeriodEndDate": null
@@ -212,6 +150,68 @@
         0
       ],
       "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12025-beziers-nevers",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-11T19:30:00+02:00",
+        "firstPeriodEndDate": null,
+        "secondPeriodStartDate": null,
+        "secondPeriodEndDate": null
+      },
+      "postponed": false
+    },
+    {
+      "id": 12030,
+      "home": {
+        "name": "Oyonnax Rugby",
+        "acronym": "OYO",
+        "logo": "https://cdn.lnr.fr/club/oyonnax/photo/logo.7ff5000ff3028fc31f735c06d8353cc6fdb5ab62"
+      },
+      "away": {
+        "name": "Stade Aurillacois",
+        "acronym": "SA",
+        "logo": "https://cdn.lnr.fr/club/aurillac/photo/logo.93cd572b4cf74f9e22dee63c72e21b36b6285d97"
+      },
+      "date": "11/09",
+      "time": "19h30",
+      "broadcasters": [
+        "Canal + Live"
+      ],
+      "status": "not-started",
+      "score": [
+        0,
+        0
+      ],
+      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12030-oyonnax-aurillac",
+      "timer": {
+        "firstPeriodStartDate": "2026-09-11T19:30:00+02:00",
+        "firstPeriodEndDate": null,
+        "secondPeriodStartDate": null,
+        "secondPeriodEndDate": null
+      },
+      "postponed": false
+    },
+    {
+      "id": 12027,
+      "home": {
+        "name": "CA Brive",
+        "acronym": "CAB",
+        "logo": "https://cdn.lnr.fr/club/brive/photo/logo.aa9cd83c92305f81e89896076a24888a72d3302f"
+      },
+      "away": {
+        "name": "Nissa Rugby",
+        "acronym": "SN",
+        "logo": "https://cdn.lnr.fr/club/nice/photo/logo.ac11f07c903e0bcee33cbdd5267c8ed066f06647"
+      },
+      "date": "11/09",
+      "time": "19h30",
+      "broadcasters": [
+        "Canal + Live"
+      ],
+      "status": "not-started",
+      "score": [
+        0,
+        0
+      ],
+      "link": "https://prod2.lnr.fr/feuille-de-match/2026-2027/j3/12027-brive-nice",
       "timer": {
         "firstPeriodStartDate": "2026-09-11T19:30:00+02:00",
         "firstPeriodEndDate": null,
